@@ -3,6 +3,13 @@
   "version": "1.1.0",
   "name": "NucleDoom",
   "tagline": "The real Doom (1993) running inside Minecraft 1.21.4: shoot through the shareware episode or Freedoom on a giant map screen, with sound.",
+  "how_to_play": [
+    "Play the real Doom (1993) on a giant map screen inside Minecraft, with sound.",
+    "Create a single-player world with cheats on.",
+    "Type /game open nucledoom:doom_shareware in chat (or nucledoom:freedoom1, nucledoom:freedoom2) and join the game it opens.",
+    "WASD move, Shift run, mouse look, left click shoot, right click use, 1-7 weapons.",
+    "F pauses or opens the menu, Space selects, E accepts, Q goes back."
+  ],
   "kind": "mashup",
   "games": [
     {
