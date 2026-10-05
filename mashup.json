@@ -4,11 +4,11 @@
   "name": "NucleDoom",
   "tagline": "The real Doom (1993) running inside Minecraft 1.21.4: shoot through the shareware episode or Freedoom on a giant map screen, with sound.",
   "how_to_play": [
-    "Play the real Doom (1993) on a giant map screen inside Minecraft, with sound.",
-    "Create a single-player world with cheats on.",
+    "Play the real Doom (1993) inside Minecraft, drawn on a giant map screen in front of you, with sound.",
+    "Press Play to start Minecraft, then create a single-player world with cheats on.",
     "Type /game open nucledoom:doom_shareware in chat (or nucledoom:freedoom1, nucledoom:freedoom2) and join the game it opens.",
     "WASD move, Shift run, mouse look, left click shoot, right click use, 1-7 weapons.",
-    "F pauses or opens the menu, Space selects, E accepts, Q goes back."
+    "F pause/menu, Space select, E accept, Q back."
   ],
   "kind": "mashup",
   "games": [
@@ -100,9 +100,6 @@
   "status": "beta",
   "issues": "https://github.com/Patbox/nucledoom/issues",
   "notes": [
-    "How it works: you play the real Doom (1993) inside Minecraft, drawn on a giant map screen in front of you, with sound.",
-    "Start Minecraft from SIGF, create a single-player world with cheats on, then type /game open nucledoom:doom_shareware in chat (or nucledoom:freedoom1, nucledoom:freedoom2) and join the game it opens.",
-    "Controls: WASD move, Shift run, mouse look, left click shoot, right click use, 1-7 weapons, F pause/menu, Space select, E accept, Q back.",
     "Minecraft: Java Edition only (runs on Minecraft 1.21.4, set up by SIGF). Doom shareware (Episode 1) and Freedoom come with the mod: no Doom purchase needed.",
     "Sound is approximate. Beta: report bugs to the author (Patbox) on the upstream issue tracker. The author's public server playdoom.pb4.eu is a separate way to play, not part of this install."
   ]
