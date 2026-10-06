@@ -5,8 +5,8 @@
   "tagline": "The real Doom (1993) running inside Minecraft 1.21.4: shoot through the shareware episode or Freedoom on a giant map screen, with sound.",
   "how_to_play": [
     "Play the real Doom (1993) inside Minecraft, drawn on a giant map screen in front of you, with sound.",
-    "Press Play to start Minecraft, then create a single-player world with cheats on.",
-    "Type /game open nucledoom:doom_shareware in chat (or nucledoom:freedoom1, nucledoom:freedoom2) and join the game it opens.",
+    "Press Play to start Minecraft, then create a single-player world with cheats on, or join your lobby's free SIGF server.",
+    "Type /game open nucledoom:doom_shareware (or nucledoom:freedoom1, nucledoom:freedoom2) and join it; on a SIGF server type /game portal open instead.",
     "WASD move, Shift run, mouse look, left click shoot, right click use, 1-7 weapons.",
     "F pause/menu, Space select, E accept, Q back."
   ],
@@ -88,6 +88,14 @@
     "hosted": "https://github.com/SIGFAI/nucledoom"
   },
   "media": {},
+  "server": {
+    "game": "minecraft",
+    "mc": "1.21.4",
+    "loader": "fabric@0.19.5",
+    "ram_gb": 2,
+    "max_players": 10,
+    "pack": "nucledoom.mrpack"
+  },
   "built_by": {
     "author": "Patbox",
     "authors": [
